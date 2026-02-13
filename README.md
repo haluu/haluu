@@ -1,3 +1,3 @@
 ### Hi there👋
 
-<img align="center" width="45%" src="https://github.com/haluu/haluu/blob/main/metrics.svg">
+<img width="50%" src="https://github.com/haluu/haluu/blob/main/metrics.svg">
